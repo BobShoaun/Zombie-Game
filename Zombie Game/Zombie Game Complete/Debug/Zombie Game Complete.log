@@ -1,0 +1,20 @@
+﻿  Zombie Game Complete.cpp
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(362): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(563): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(588): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(594): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(621): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(639): warning C4309: 'argument': truncation of constant value
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(834): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(835): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(836): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(885): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(894): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(895): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game complete\zombie game complete.cpp(955): warning C4018: '<': signed/unsigned mismatch
+  Zombie Game Complete.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\Zombie Game\Debug\Zombie Game Complete.exe
+  Zombie Game Complete.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\Zombie Game\Debug\Zombie Game Complete.pdb (Partial PDB)

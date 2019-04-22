@@ -1,0 +1,19 @@
+﻿  Zombie Game Beta.cpp
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(524): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(545): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(550): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(572): warning C4552: '*': result of expression not used
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(587): warning C4309: 'argument': truncation of constant value
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(762): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(763): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(764): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(809): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(816): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(817): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game beta\zombie game beta.cpp(872): warning C4018: '<': signed/unsigned mismatch
+  Zombie Game Beta.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Zombie Game\Debug\Zombie Game Beta.exe

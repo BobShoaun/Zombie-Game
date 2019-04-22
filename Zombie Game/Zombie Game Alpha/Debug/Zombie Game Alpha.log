@@ -1,0 +1,9 @@
+﻿  Zombie Game Alpha.cpp
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game alpha\zombie game alpha.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game alpha\zombie game alpha.cpp(415): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game alpha\zombie game alpha.cpp(423): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\user\documents\visual studio 2017\projects\zombie game\zombie game alpha\zombie game alpha.cpp(424): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Zombie Game Alpha.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\Zombie Game\Debug\Zombie Game Alpha.exe
+  Zombie Game Alpha.vcxproj -> c:\users\user\documents\visual studio 2017\Projects\Zombie Game\Debug\Zombie Game Alpha.pdb (Partial PDB)
