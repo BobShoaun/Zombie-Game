@@ -200,7 +200,7 @@ class Zombie : public Collider {
 class ZombieManager {
 	private:
 	int zombieSpawnTimer = 0;
-	int zombieSpawnInterval = 50;
+	int zombieSpawnInterval = 45;
 	int waves = 0;
 	void spawnZombie (Vector2);
 	void updateZombies ();
@@ -921,7 +921,7 @@ void Game::draw () {
 		for (int width = 0; width < screenWidth; width++) {
 			//std::cout << Collider::collisionMatrix [width] [height];
 			//std::cout << Wall::walkableAreas [width] [height];
-			std::cout << Graphics::screen [width] [height];
+			std::cout << (Graphics::screen[width][height] == '\0' ? ' ' : Graphics::screen [width] [height]);
 		}
 		std::cout << std::endl;
 	}

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zombie Game Alpha", "Zombie Game Alpha\Zombie Game Alpha.vcxproj", "{9F2419FE-30C5-414E-999D-B66E81CF053A}"
 EndProject
@@ -18,19 +18,15 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Debug|x64.ActiveCfg = Debug|x64
-		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Debug|x64.Build.0 = Debug|x64
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Debug|x86.ActiveCfg = Debug|Win32
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Debug|x86.Build.0 = Debug|Win32
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Release|x64.ActiveCfg = Release|x64
-		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Release|x64.Build.0 = Release|x64
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Release|x86.ActiveCfg = Release|Win32
 		{9F2419FE-30C5-414E-999D-B66E81CF053A}.Release|x86.Build.0 = Release|Win32
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Debug|x64.ActiveCfg = Debug|x64
-		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Debug|x64.Build.0 = Debug|x64
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Debug|x86.ActiveCfg = Debug|Win32
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Debug|x86.Build.0 = Debug|Win32
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Release|x64.ActiveCfg = Release|x64
-		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Release|x64.Build.0 = Release|x64
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Release|x86.ActiveCfg = Release|Win32
 		{E4C0E357-6E47-48F4-9422-E1012FA3361B}.Release|x86.Build.0 = Release|Win32
 		{A7E0B4CB-3E25-46CA-9665-C16C2FC5C794}.Debug|x64.ActiveCfg = Debug|x64
@@ -44,5 +40,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6976290E-4DFE-4BE5-ACA6-FF905468046C}
 	EndGlobalSection
 EndGlobal
